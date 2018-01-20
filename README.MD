@@ -8,4 +8,5 @@ Zone there should be information about the specific ZOne.
 # Display
 
 This map will eventually be placed on the Region II NSBE Website which can
-be found here http://www.nsbe.org/Regions/Region2/default.aspx
+be found here http://www.nsbe.org/Regions/Region2/default.aspx. For now
+the file can viewed at https://rawgit.com/rjpadgett2/NSBE-R2-Map/master/r2map.html.
